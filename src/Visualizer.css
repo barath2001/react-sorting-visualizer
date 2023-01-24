@@ -1,0 +1,19 @@
+.container {
+  height: 500px;
+  width: 500px;
+}
+
+.bar {
+  height: 500px;
+  width: 100px;
+  transition: 0.3s;
+  position: absolute;
+
+  display: flex;
+  align-items: flex-end;
+}
+
+.fill {
+  width: 100%;
+  position: relative;
+}
